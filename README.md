@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **ReactJS**
 
-- 📫 How to reach me **nqcthedevx@gmail.com**
+- 📫 How to reach me **nqcthedev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 <h3 align="center">Connect with me:</h3>
