@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="100%" margin-bottom="40px" src="https://i1.wp.com/i.giphy.com/media/QX6ruFElzFdeIfblrg/giphy-downsized.gif?w=770&ssl=1">
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, MERNStack**
+<div style="margin-top="20px">
+  - 🌱 I’m currently learning **NodeJS, MongoDB, MERNStack**
 
 - 💬 Ask me about **ReactJS**
 
@@ -10,6 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/nqc111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nqc111" height="60" width="60" /></a>
