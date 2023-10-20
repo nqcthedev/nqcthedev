@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cuong Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Front End Development</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="100%" margin-bottom="40px" src="https://i1.wp.com/i.giphy.com/media/QX6ruFElzFdeIfblrg/giphy-downsized.gif?w=770&ssl=1">
 
