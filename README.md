@@ -1,4 +1,3 @@
-<!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Quoc Cuong!
 
@@ -27,7 +26,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nqcthedev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqcthedev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="![](https://github-readme-stats.vercel.app/api?username=nqcthedev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)"/>
+  <img src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqcthedev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)" widht="450px" height="195px"/>
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nqc111) 
