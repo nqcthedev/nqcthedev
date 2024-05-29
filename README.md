@@ -3,7 +3,7 @@
 
 👨🏻‍💻 Aspiring Software Engineer<br/>
 👨🏻‍🎓 Studied Computer Science at Binh Duong Economics and Technology University (BETU), majoring in Information Technology<br/>
-🍳 Creating captivating videos about outdoor cooking adventures on [YouTube](https://www.youtube.com/channel/UCWkSUxOKXx6R189_t2_rIYQ)<br/>
+🍳 Creating captivating videos about outdoor cooking adventures on [YouTube](https://www.youtube.com/channel/UCWkSUxOKXx6R189_t2_rIYQ)  in my spare time<br/>
 🔍 Currently learning more about SEO and actively practicing SEO<br/>
 🎥 Expert in video editing and YouTube content creation<br/>
 
