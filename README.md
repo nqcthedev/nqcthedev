@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nqcthedev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqcthedev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="450px" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqcthedev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="195px"/>
 </p>
 
 ## 🌐 Socials:
