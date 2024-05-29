@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm Front End Development</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="100%" margin-bottom="40px" src="https://i1.wp.com/i.giphy.com/media/QX6ruFElzFdeIfblrg/giphy-downsized.gif?w=770&ssl=1">
+<!-- Level 3: Add custom code -->
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, MERNStack**
+# 👋 Hi, I'm Quoc Cuong!
 
-- 💬 Ask me about **ReactJS**
+👨🏻‍💻 Aspiring Software Engineer<br/>
+👨🏻‍🎓 Studied Computer Science at Binh Duong Economics and Technology University (BETU), majoring in Information Technology<br/>
+🍳 Creating captivating videos about outdoor cooking adventures on [YouTube](https://www.youtube.com/channel/UCWkSUxOKXx6R189_t2_rIYQ)<br/>
+🔍 Currently learning more about SEO and actively practicing SEO<br/>
+🎥 Expert in video editing and YouTube content creation<br/>
 
-- 📫 How to reach me **nqcthedev@gmail.com**
+# 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nqc111) 
 
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nqcthedev&show_icons=true&locale=en&layout=compact" alt="nqcthedev" /></p>
+# 📊 GitHub Stats:
+[![](https://visitcount.itsvg.in/api?id=nqcthedev&icon=0&color=0)](https://visitcount.itsvg.in) ![](https://github-readme-stats.vercel.app/api?username=nqcthedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=nqcthedev&show_icons=true&locale=en" alt="nqcthedev" /></p>
-
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nqcthedev&" alt="nqcthedev" /></p>
